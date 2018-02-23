@@ -7,7 +7,7 @@
 
 
     Таблица:
- <https://docs.google.com/spreadsheets/d/1IrWjU8aCKRZxWFtCYwWP-ZjhDJEKa0jXDiQBHRbThe0/edit#gid=206968894>
+ <https://docs.google.com/spreadsheets/d/1IrWjU8aCKRZxWFtCYwWP-ZjhDJEKa0jXDiQBHRbThe0/edit#gid=2069688949>
  
     
     
